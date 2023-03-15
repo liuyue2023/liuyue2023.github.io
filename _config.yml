@@ -25,11 +25,11 @@ plainwhite:
     - page
     - post
   plainwhite:
-  navigation:
+  navigation: #导航栏
     - title: My Work
       url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    #- title: Resume
+     # url: "/resume"
   # generate social links in footer
   social_links:
     #twitter: samarsault
