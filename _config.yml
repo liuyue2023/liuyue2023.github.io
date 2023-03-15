@@ -24,9 +24,15 @@ plainwhite:
     #- home
     - page
     - post
+  plainwhite:
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
   # generate social links in footer
   social_links:
-    twitter: samarsault
+    #twitter: samarsault
     github:  samarsault
     linkedIn: in/samarsault
     #dribbble: jekyll
