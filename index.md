@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: CV
 ---
-{{ 
+
+
 # 联系方式
 （HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
 
@@ -99,104 +100,10 @@ layout: home
 
 本技能关键字列表是从最近招聘C/C++的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
 
-- linux(369)
-- windows(178)
-- mysql(110)
-- tcp(96)
-- unix(93)
-- python(72)
-- socket(71)
-- sql(68)
-- android(67)
-- oracle(61)
-- java(59)
-- http(51)
-- ios(51)
-- shell(47)
-- web(44)
-- stl(41)
-- mfc(39)
-- vc(31)
-- lua(31)
-- php(24)
-- perl(24)
-- html(23)
-- javascript(23)
-- api(21)
-- gdb(21)
-- pc(20)
-- sdk(18)
-- gcc(18)
-- udp(17)
-- nosql(16)
-- nginx(15)
-- ui(13)
-- cocos2d(13)
-- gdi(12)
-- app(12)
-- boost(12)
-- smarty(12)
-- svn(12)
-- atl(12)
-- wtl(11)
-- 3d(11)
-- win32(10)
-- hadoop(9)
-- visual studio(9)
-- gis(9)
-- sip(9)
-- postgresql(8)
-- redis(8)
-- 2d(8)
-- hive(8)
-- sqlserver(8)
-- sqlite(7)
-- dsp(7)
-- uml(7)
-- ffmpeg(7)
-- sybase(7)
-- p2p(7)
-- xml(7)
-- xmpp(7)
-- oop(7)
-- opengl(7)
-- db(7)
-- xp(6)
-- make(6)
-- pro(6)
-- apache(6)
-- voip(6)
-- rtp(6)
-- bi(6)
-- mac(6)
-- manscdp(5)
-- scrum(5)
-- mansrtsp(5)
-- erlang(5)
-- aac(5)
-- arm(5)
-- dns(5)
-- ruby(5)
-- qa(5)
-- wifi(5)
-- mongodb(5)
-- embedded(4)
-- module(4)
-- usb(4)
-- epoll(4)
-- windbg(4)
-- ace(4)
-- mobvista(4)
-- db2(4)
-- mp4(4)
-- webkit(4)
-
-
-
-
+- linux
 
 ---
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-content }}
+
