@@ -26,12 +26,10 @@ plainwhite:
     - post
   plainwhite:
   navigation: #导航栏
-    - title: My Work
-      url: "/my-work"
-    - title: My Paper
-      url: "/my-work"
-    - title: CV
-      url: "/my-work"
+#     - title: My Work
+#       url: "/my-work"
+#     - title: My Paper
+#       url: "/my-work"
     #- title: Resume
      # url: "/resume"
   # generate social links in footer
